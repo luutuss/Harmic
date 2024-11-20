@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Harmic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|d:\\harmic\\harmic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|d:\\harmic\\harmic\\viewcomponents\\productviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\viewcomponents\\productviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Harmic\\Harmic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Harmic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Harmic\\Harmic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Harmic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T06:09:54.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\Harmic\\Harmic\\Views\\Shared\\Components\\MenuTop\\Default.cshtml",
               "RelativeDocumentMoniker": "Harmic\\Views\\Shared\\Components\\MenuTop\\Default.cshtml",
@@ -50,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Harmic\\Harmic\\appsettings.json",
               "RelativeDocumentMoniker": "Harmic\\appsettings.json",
@@ -62,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Harmic\\Harmic\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Harmic\\Views\\Shared\\_Layout.cshtml",
@@ -74,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\Harmic\\Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
               "RelativeDocumentMoniker": "Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
@@ -86,20 +103,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductViewComponent.cs",
               "DocumentMoniker": "D:\\Harmic\\Harmic\\ViewComponents\\ProductViewComponent.cs",
               "RelativeDocumentMoniker": "Harmic\\ViewComponents\\ProductViewComponent.cs",
               "ToolTip": "D:\\Harmic\\Harmic\\ViewComponents\\ProductViewComponent.cs",
               "RelativeToolTip": "Harmic\\ViewComponents\\ProductViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T05:38:00.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Harmic\\Harmic\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Harmic\\Controllers\\HomeController.cs",
