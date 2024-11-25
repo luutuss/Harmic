@@ -564,3 +564,4 @@ D:\Harmic\Harmic\obj\Debug\net8.0\refint\Harmic.dll
 D:\Harmic\Harmic\obj\Debug\net8.0\Harmic.pdb
 D:\Harmic\Harmic\obj\Debug\net8.0\Harmic.genruntimeconfig.cache
 D:\Harmic\Harmic\obj\Debug\net8.0\ref\Harmic.dll
+D:\Harmic\Harmic\obj\Debug\net8.0\Harmic.sourcelink.json
