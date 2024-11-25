@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|d:\\harmic\\harmic\\models\\tbaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\models\\tbaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|d:\\harmic\\harmic\\models\\harmiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\models\\harmiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|d:\\harmic\\harmic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|d:\\harmic\\harmic\\models\\tbproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\models\\tbproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|d:\\harmic\\harmic\\models\\tbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\models\\tbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|d:\\harmic\\harmic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,24 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Harmic\\Harmic\\Program.cs",
+              "RelativeDocumentMoniker": "Harmic\\Program.cs",
+              "ToolTip": "D:\\Harmic\\Harmic\\Program.cs",
+              "RelativeToolTip": "Harmic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:14:30.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TbAccount.cs",
+              "DocumentMoniker": "D:\\Harmic\\Harmic\\Models\\TbAccount.cs",
+              "RelativeDocumentMoniker": "Harmic\\Models\\TbAccount.cs",
+              "ToolTip": "D:\\Harmic\\Harmic\\Models\\TbAccount.cs",
+              "RelativeToolTip": "Harmic\\Models\\TbAccount.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIAwwBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:11:47.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HarmicContext.cs",
+              "DocumentMoniker": "D:\\Harmic\\Harmic\\Models\\HarmicContext.cs",
+              "RelativeDocumentMoniker": "Harmic\\Models\\HarmicContext.cs",
+              "ToolTip": "D:\\Harmic\\Harmic\\Models\\HarmicContext.cs*",
+              "RelativeToolTip": "Harmic\\Models\\HarmicContext.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:09:29.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TbProductCategory.cs",
+              "DocumentMoniker": "D:\\Harmic\\Harmic\\Models\\TbProductCategory.cs",
+              "RelativeDocumentMoniker": "Harmic\\Models\\TbProductCategory.cs",
+              "ToolTip": "D:\\Harmic\\Harmic\\Models\\TbProductCategory.cs",
+              "RelativeToolTip": "Harmic\\Models\\TbProductCategory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:08:24.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TbProduct.cs",
+              "DocumentMoniker": "D:\\Harmic\\Harmic\\Models\\TbProduct.cs",
+              "RelativeDocumentMoniker": "Harmic\\Models\\TbProduct.cs",
+              "ToolTip": "D:\\Harmic\\Harmic\\Models\\TbProduct.cs",
+              "RelativeToolTip": "Harmic\\Models\\TbProduct.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:08:20.433Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Harmic\\Harmic\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Harmic\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Harmic\\Harmic\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Harmic\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAAAJwAAAAZAAAAAAAAAA==",
+              "ToolTip": "D:\\Harmic\\Harmic\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Harmic\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAJ8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-25T02:40:25.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Harmic\\Harmic\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Harmic\\Controllers\\HomeController.cs",
@@ -43,8 +128,7 @@
               "RelativeToolTip": "Harmic\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T04:26:02.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T04:26:02.922Z"
             }
           ]
         }

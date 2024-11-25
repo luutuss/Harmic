@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Harmic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Harmic\\Harmic\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Harmic\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|d:\\harmic\\harmic\\views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Harmic\\Harmic\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Harmic\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|d:\\harmic\\harmic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6000F033-D369-4B5A-9EBF-8949F6F43789}|Harmic\\Harmic.csproj|solutionrelative:harmic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Harmic\\Harmic\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Harmic\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Harmic\\Harmic\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Harmic\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAAAJwAAAAZAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Harmic\\Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "RelativeDocumentMoniker": "Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "ToolTip": "D:\\Harmic\\Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "RelativeToolTip": "Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T02:40:25.331Z",
+              "WhenOpened": "2024-11-25T08:12:50.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Harmic\\Harmic\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Harmic\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Harmic\\Harmic\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Harmic\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T04:26:02.922Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Harmic\\Harmic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Harmic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Harmic\\Harmic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Harmic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHYGAAAAAAAAAAAAAM4GAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T02:40:25.331Z",
+              "EditorCaption": ""
             }
           ]
         }
