@@ -8409,100 +8409,72 @@
       "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\2-4-555x645.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-1-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-1-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\banana.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\banana.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-10-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-10-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\bi.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\bi.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-11-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-11-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\bo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\bo.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-12-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-12-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\cu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\cu.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-2-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-2-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\dua.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\dua.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-3-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-3-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\dudu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\dudu.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-4-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-4-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\hatdau.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\hatdau.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-5-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-5-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\luu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\luu.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-6-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-6-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\ot.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\ot.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-7-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-7-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\sua.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\sua.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-8-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-8-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\thitbo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\thitbo.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\1-9-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-9-270x300.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\medium-size\\tom.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\tom.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\banana.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\banana.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\duanho.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\duanho.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\bi.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\bi.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\hu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\hu.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\bo.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\bo.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\rau.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\rau.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\cu.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\cu.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\suanho.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\suanho.jpg"
     },
     {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\dua.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\dua.jpg"
-    },
-    {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\dudu.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\dudu.jpg"
-    },
-    {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\hatdau.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\hatdau.jpg"
-    },
-    {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\luu.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\luu.jpg"
-    },
-    {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\ot.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\ot.jpg"
-    },
-    {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\sua.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\sua.jpg"
-    },
-    {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\thitbo.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\thitbo.jpg"
-    },
-    {
-      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\tom.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\tom.jpg"
+      "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\product\\small-size\\tomnho.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\tomnho.jpg"
     },
     {
       "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\images\\shape\\1.png",
