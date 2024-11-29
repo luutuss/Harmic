@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\Harmic\\Harmic\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Harmic.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Harmic.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Harmic.zjdj2upv2v.bundle.scp.css"
     },
     {
       "Id": "D:\\Harmic\\Harmic\\wwwroot\\admin\\dist\\css\\adminlte.css",
@@ -9031,6 +9031,10 @@
     {
       "Id": "D:\\Harmic\\Harmic\\wwwroot\\assets\\scss\\style.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Harmic.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Harmic.Microsoft.AspNetCore.StaticWebAssets.props",

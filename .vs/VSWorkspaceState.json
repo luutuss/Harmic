@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Harmic",
+    "\\Harmic\\Views",
+    "\\Harmic\\Views\\Product",
+    "\\Harmic\\Views\\Shared",
+    "\\Harmic\\Views\\Shared\\Components",
+    "\\Harmic\\Views\\Shared\\Components\\Blog"
   ],
+  "SelectedNode": "\\Harmic\\Views\\Shared\\Components\\Blog\\Default.cshtml",
   "PreviewInSolutionExplorer": false
 }
