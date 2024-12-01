@@ -10,8 +10,7 @@ public partial class HarmicContext : DbContext
     {
     }
 
-    public HarmicContext(DbContextOptions<HarmicContext> options)
-        : base(options)
+    public HarmicContext(DbContextOptions<HarmicContext> options): base(options)
     {
     }
 
